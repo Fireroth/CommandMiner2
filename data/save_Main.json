@@ -1,0 +1,20 @@
+{
+    "money": 0,
+    "ore_amount": 0,
+    "pickaxe_level": 1,
+    "backpack_capacity": 50,
+    "backpack_level": 1,
+    "tokens": 0,
+    "ore_multiplier": 1,
+    "common_crate": 0,
+    "uncommon_crate": 0,
+    "rare_crate": 0,
+    "epic_crate": 0,
+    "legendary_crate": 0,
+    "autosell": 0,
+    "rebirth_token_reward": 0,
+    "rebirth_amount": 0,
+    "minimum_mined": 0,
+    "auto_crate_open": 0,
+    "double_mine": 0
+}
